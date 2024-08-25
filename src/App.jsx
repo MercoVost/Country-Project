@@ -19,7 +19,7 @@ function App() {
       <Main>
         <Routes>
           <Route
-            path="/Country-Project/"
+            path="/"
             element={
               <HomePage countries={countries} setCountries={setCountries} />
             }
